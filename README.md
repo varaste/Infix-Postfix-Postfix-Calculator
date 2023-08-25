@@ -3,6 +3,32 @@ Advanced Calculator
 
 More info in pdf file Attached
 
+This C++ program implements an advanced calculator with extended functions beyond basic arithmetic.
+
+## Features
++ Basic operators: +, -, *, /
++ Exponential: ^ (power), √ (square root)
++ Trigonometric: sin, cos, tan, cot
++ Reset calculation
++ Chained operations
+
+## Usage
+1. Run the compiled executable
+2. Enter first number when prompted
+3. Enter an operator when prompted
+4. Enter next number to apply operator
+5. Program displays result of operation
+6. Repeat steps 3-5 to chain operations
+7. Use r to reset and start new calculation
+8. Use q to quit
+
+
+## Input Validation
++ Non-math operators are rejected
++ Divide by zero prevented
++ Overflow/underflow not handled
+
+
 
 Please enter an expression:
 
