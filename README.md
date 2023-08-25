@@ -12,6 +12,7 @@ This C++ program implements an advanced calculator with extended functions beyon
 + Reset calculation
 + Chained operations
 
+
 ## Usage
 1. Run the compiled executable
 2. Enter first number when prompted
