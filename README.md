@@ -7,10 +7,7 @@ This C++ program implements an advanced calculator with extended functions beyon
 
 ## Features
 + Basic operators: +, -, *, /
-+ Exponential: ^ (power), √ (square root)
-+ Trigonometric: sin, cos, tan, cot
-+ Reset calculation
-+ Chained operations
+
 
 
 ## Usage
